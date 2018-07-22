@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Yuchu</string>
+    <string name="car_red">car1</string>
+    <string name="next">Go Next</string>
+    <string name="prev">Go Previous</string>
 </resources>
